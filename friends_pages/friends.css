@@ -1,0 +1,19 @@
+body {
+    overflow: scroll;
+}
+
+main h1 {
+    font-size: 2.6rem;
+    color: red;
+}
+
+main p {
+    font-size: 1.5rem;
+    color: red;
+}
+
+main {
+    position: relative;
+    top: 27vh;
+    margin: 0 30vh;
+}

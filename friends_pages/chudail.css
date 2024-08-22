@@ -1,0 +1,11 @@
+body {
+    overflow: scroll;
+}
+
+.mainSection {
+    width: 80%;
+    /* height: 82.3vh; */
+    display: flex;
+    align-items: center;
+    margin: 2vh 20vh;
+}

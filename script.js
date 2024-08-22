@@ -45,26 +45,26 @@ form.addEventListener('submit', (e)=>{
 
 function auth(username, password) {
     if (username=='minakshi' && password=='s@ruli0618') {
-        window.location.href = './friends_pages/minakshi.html';
+        window.location.href = './Rakhi/friends_pages/minakshi.html';
         // console.log(username)
     }
     else if (username=='rani ji' && password=='arnav@toto') {
-        window.location.href = './friends_pages/chudail.html';
+        window.location.href = './Rakhi/friends_pages/chudail.html';
         // console.log(username)
     }
     else if (username=='mummy ji' && password=='Radharani.777') {
-        window.location.href = './friends_pages/penguin.html';
+        window.location.href = './Rakhi/friends_pages/penguin.html';
         // console.log(username)
     }
     else if (username=='kritika' && password=='') {
-        window.location.href = './friends_pages/kritika.html';
+        window.location.href = './Rakhi/friends_pages/kritika.html';
         // console.log(username)
     }
     else if (username=='reema' && password=='') {
-        window.location.href = './friends_pages/reema.html';
+        window.location.href = './Rakhi/friends_pages/reema.html';
     }
     else if (username=='jyoti' && password=='') {
-        window.location.href = './friends_pages/jyoti.html';
+        window.location.href = './Rakhi/friends_pages/jyoti.html';
     }
     else {
         const wrong_pass = document.querySelector('.wrong-pass');

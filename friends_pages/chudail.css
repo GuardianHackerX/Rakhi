@@ -9,3 +9,8 @@ body {
     align-items: center;
     margin: 2vh 20vh;
 }
+
+#play-song {
+    user-select: all;
+    color: red;
+}
